@@ -15,9 +15,7 @@ A space craft shooting game built with HTML5, CSS, JavaScript. It's a desktop ve
 
 ## Link:
 
-Hosted on My Portfolio Website
-
-https://pabitrabanerjee.me/Clash-Of-Space
+If You Want To Directly Download This App For Your Windows Device :: [Clash Of Space](https://explorecode.live/cos-ms.exe)
 
 ### Instruction:
 
